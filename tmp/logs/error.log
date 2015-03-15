@@ -1,0 +1,9 @@
+2015-03-14 14:56:15 Error: [MissingControllerException] Controller class ItemsController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/todolist/items
+Stack Trace:
+#0 /var/www/cakephp/todolist/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
